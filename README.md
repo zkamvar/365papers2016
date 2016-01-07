@@ -8,3 +8,4 @@ The following is a list of papers I read in 2016 indexed by their Author (et al.
 | 2 | Janousek et al. | 2016 | Genetic analyses suggest separate introductions of the pine pathogen _Lecanosticta acicola_ into Europe | http://dx.doi.org/10.1094/PHYTO-10-15-0271-R | 2016-01-05 |
 | 3 | Wey et al. | 2016 | MAT–gene structure and mating behavior of *Hymenoscyphus fraxineus* and *Hymenoscyphus albidus* | http://dx.doi.org/10.1016/j.fgb.2015.12.013 | 2016-01-05 |
 | 4 | VanBuren et al. | 2015 | Single-molecule sequencing of the desiccation-tolerant grass *Oropetium thomaeum* | http://dx.doi.org/10.1038/nature15714 | 2016-01-06 |
+| 5 | Mathieson et al. | 2015 | Genome-wide patterns of selection in 230 ancient Eurasians | http://dx.doi.org/10.1038/nature16152 | 2016-01-06 |
