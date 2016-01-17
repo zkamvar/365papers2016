@@ -10,3 +10,4 @@ The following is a list of papers I read in 2016 indexed by their Author (et al.
 | 4 | VanBuren et al. | 2015 | Single-molecule sequencing of the desiccation-tolerant grass *Oropetium thomaeum* | http://dx.doi.org/10.1038/nature15714 | 2016-01-06 |
 | 5 | Mathieson et al. | 2015 | Genome-wide patterns of selection in 230 ancient Eurasians | http://dx.doi.org/10.1038/nature16152 | 2016-01-06 |
 | 6 | Hinsinger et al. | 2013 | The Phylogeny and Biogeographic History of Ashes (*Fraxinus*, Oleaceae) Highlight the Roles of Migration and Vicariance in the Diversification of Temperate Trees | http://dx.doi.org/10.1371/journal.pone.0080431 | 2016-01-12 |
+| 7 | Shapiro | 2016 | How clonal are bacteria over time? | http://dx.doi.org/10.1101/036780 | 2016-01-17 |
