@@ -11,3 +11,5 @@ The following is a list of papers I read in 2016 indexed by their Author (et al.
 | 5 | Mathieson et al. | 2015 | Genome-wide patterns of selection in 230 ancient Eurasians | http://dx.doi.org/10.1038/nature16152 | 2016-01-06 |
 | 6 | Hinsinger et al. | 2013 | The Phylogeny and Biogeographic History of Ashes (*Fraxinus*, Oleaceae) Highlight the Roles of Migration and Vicariance in the Diversification of Temperate Trees | http://dx.doi.org/10.1371/journal.pone.0080431 | 2016-01-12 |
 | 7 | Shapiro | 2016 | How clonal are bacteria over time? | http://dx.doi.org/10.1101/036780 | 2016-01-17 |
+| 8 | Karkey et al. | 2016 | The Ecological Dynamics of Fecal Contamination and *Salmonella Typhi* and *Salmonella Paratyphi* A in Municipal Kathmandu Drinking Water | http://dx.doi.org/10.1371/journal.pntd.0004346 | 2016-01-28 |
+| 9 | Krueger-Hadfield and Hoban | 2016 | The Importance Of Effective Sampling For Exploring The Population Dynamics Of Haploid–diploid Seaweeds | http://dx.doi.org/10.1111/jpy.12366 | 2016-01-28 |
