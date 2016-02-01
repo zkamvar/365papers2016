@@ -13,3 +13,4 @@ The following is a list of papers I read in 2016 indexed by their Author (et al.
 | 7 | Shapiro | 2016 | How clonal are bacteria over time? | http://dx.doi.org/10.1101/036780 | 2016-01-17 |
 | 8 | Karkey et al. | 2016 | The Ecological Dynamics of Fecal Contamination and *Salmonella Typhi* and *Salmonella Paratyphi* A in Municipal Kathmandu Drinking Water | http://dx.doi.org/10.1371/journal.pntd.0004346 | 2016-01-28 |
 | 9 | Krueger-Hadfield and Hoban | 2016 | The Importance Of Effective Sampling For Exploring The Population Dynamics Of Haploid–diploid Seaweeds | http://dx.doi.org/10.1111/jpy.12366 | 2016-01-28 |
+| 9 | Compeau et al. | 2011 | How to apply de Bruijn graphs to genome assembly | http://dx.doi.org/10.1038/nbt.2023 | 2016-02-01 |
